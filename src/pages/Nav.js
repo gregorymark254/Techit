@@ -9,7 +9,7 @@ const Nav = () => {
   };
 
   return (
-    <main>
+    <main id="nav">
       <div className="container mx-auto p-4">
         <nav className="flex flex-wrap items-center justify-between md:justify-around">
           <div className="px-3 py-2">
@@ -17,7 +17,7 @@ const Nav = () => {
           </div>
           <div className="hidden md:flex lg:flex">
             <ul className="flex">
-              <li className="px-3 py-2 hover:text-[#5e87eb]"><Link to="/">Home</Link></li>
+              <li className="px-3 py-2 hover:text-[]"><Link to="/">Home</Link></li>
               <li className="px-3 py-2 hover:text-[#5e87eb]"><Link to="/about">About</Link></li>
               <li className="px-3 py-2 hover:text-[#5e87eb]"><Link to="/services">Services</Link></li>
               <li className="px-3 py-2 hover:text-[#5e87eb]"><Link to="/blog">Blog</Link></li>

@@ -5,6 +5,7 @@ import Blog from './pages/Blog'
 import Contact from './pages/Contact'
 import Nav from './pages/Nav'
 import Footer from './pages/Footer'
+import ScrollToTop from './pages/ScrollToTop'
 import { Routes,Route } from 'react-router-dom'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/blog" element={<Blog/>} />
         <Route exact path="/contact" element={<Contact/>} />
       </Routes>
+      <ScrollToTop/>
       <Footer/>
     </main>
   );
