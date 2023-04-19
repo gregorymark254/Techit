@@ -58,6 +58,19 @@ body {
   background-attachment: fixed;
 }
 
+/*body intoduction*/
+#intro {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-position: 50%; 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://barakahit.net/html/techit/assets/img/banner-bg.jpg');
+  height: 40vh;
+  background-repeat : no-repeat;
+}
 
 /* Responsiveness mobile */
 @media only screen and (max-width: 768px) {
