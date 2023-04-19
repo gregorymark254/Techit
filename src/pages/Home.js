@@ -15,7 +15,7 @@ const Home = () => {
                 <h1><b>Providing Company</b></h1>
               </div>
               <div className="flex flex-wrap">
-                <p className="block text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br /> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, magna aliqua.</p>
+                <p className="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br /> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, magna aliqua.</p>
               </div>
               <div className="flex space-x-6">
                 <span className="bg-white text-[#5e87eb] px-5 py-2 rounded-full shadow shadow-[rgb(123,104,238,0.25)]"><Link to="/">Get Started</Link></span>

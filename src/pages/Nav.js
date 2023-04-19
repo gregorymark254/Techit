@@ -11,7 +11,7 @@ const Nav = () => {
   return (
     <main>
       <div className="container mx-auto p-4">
-        <nav className="flex flex-wrap items-center justify-around">
+        <nav className="flex flex-wrap items-center justify-between md:justify-around">
           <div className="px-3 py-2">
             <h3>Techit</h3>
           </div>
@@ -44,7 +44,7 @@ const Nav = () => {
           )}
 
           {navIsShown && (
-            <div className=' absolute z-10 top-12 left-0  w-full  text-black'>
+            <div className='absolute z-10 top-12 left-0 w-full text-black'>
               <ul className='mb-2 bg-white p-2 mx-10'>
                 <li className="px-3 py-2 hover:text-[#5e87eb] border-b border-t border-slate-300"><a href="/">Home</a></li>
                 <li className="px-3 py-2 hover:text-[#5e87eb] border-b border-slate-300"><a href="/about">About</a></li>
