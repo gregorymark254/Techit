@@ -18,8 +18,8 @@ const Home = () => {
                 <p className="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br /> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, magna aliqua.</p>
               </div>
               <div className="flex space-x-6">
-                <span className="bg-white text-[#5e87eb] px-5 py-2 rounded-full shadow shadow-[rgb(123,104,238,0.25)]"><Link to="/">Get Started</Link></span>
-                <span className="bg-[#5e87eb] text-white px-5 py-2 rounded-full"><Link to="/contact">Contact Us</Link></span>
+                <span className="bg-white text-[#5e87eb] px-5 py-2 rounded-full  hover:bg-[#e2e5eb] shadow shadow-[rgb(123,104,238,0.25)]"><Link to="/">Get Started</Link></span>
+                <span className="bg-[#5e87eb] text-white px-5 py-2 hover:bg-[#5074ce] rounded-full"><Link to="/contact">Contact Us</Link></span>
               </div>
             </div>
             <div className="p-4">
@@ -49,7 +49,7 @@ const Home = () => {
                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration <br /> in some form, by injected humour, or randomised words which don't look even slightly believable. <br />If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything</p>
               </div>
               <div>
-                <span className="bg-[#5e87eb] text-white px-5 py-2 rounded-full"><Link to="/">More About Us</Link></span>
+                <span className="bg-[#5e87eb] text-white px-5 py-2 rounded-full hover:bg-[#5074ce]"><Link to="/">More About Us</Link></span>
               </div>
             </div>
           </div>
@@ -338,7 +338,7 @@ const Home = () => {
                 <h5>Advancing Business Software <br /> Development With Cloud Native</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed eiusmod tempor incididunt</p>
                 <div>
-                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full"><Link to="/">Continue Reading</Link></span>
+                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full hover:bg-[#5074ce]"><Link to="/">Continue Reading</Link></span>
                 </div>
               </div>
             </div>
@@ -350,7 +350,7 @@ const Home = () => {
                 <h5>How to Create the Right Cyber <br />Insurance Policy for Your Business</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed eiusmod tempor incididunt</p>
                 <div>
-                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full"><Link to="/">Continue Reading</Link></span>
+                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full hover:bg-[#5074ce]"><Link to="/">Continue Reading</Link></span>
                 </div>
               </div>
             </div>
@@ -362,7 +362,7 @@ const Home = () => {
                 <h5>Improving Business Performance <br /> With Augmented Intelligence!</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed eiusmod tempor incididunt</p>
                 <div>
-                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full"><Link to="/">Continue Reading</Link></span>
+                  <span className="text-white bg-[#5e87eb] px-5 py-2 rounded-full hover:bg-[#5074ce]"><Link to="/">Continue Reading</Link></span>
                 </div>
               </div>
             </div>
