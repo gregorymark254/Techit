@@ -59,7 +59,7 @@ const Footer = () => {
                   />
                 </label>
               </div>
-              <button className="text-white bg-[#5e87eb] px-5 py-2 w-full">Subscribe Now</button>
+              <button className="text-white bg-[#5e87eb] px-5 py-2 w-full hover:bg-[#5074ce]">Subscribe Now</button>
             </div>
           </div>
         </div>
