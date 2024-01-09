@@ -23,7 +23,7 @@ const Home = () => {
               </div>
             </div>
             <div className="p-4">
-              <img src="https://barakahit.net/html/techit/assets/img/home-font.png" alt="hero" />
+              <img src="https://tailwindtoolbox.github.io/Landing-Page/hero.png" alt="hero" />
             </div>
           </div>
         </div>
@@ -34,7 +34,7 @@ const Home = () => {
         <div className="container mx-auto p-4">
           <div className="flex flex-wrap items-center justify-center">
             <div className="p-4">
-              <img src="https://barakahit.net/html/techit/assets/img/about.jpg" alt="about" />
+              <img src="https://startup-agency-creative.vercel.app/_next/static/images/business-profit-1e734b0bc4702700164807fcef06532a.png" alt="about" />
             </div>
             <div className="p-4 space-y-5">
               <div>
@@ -211,7 +211,7 @@ const Home = () => {
               </div>
             </div>
             <div className="p-4">
-              <img src="https://barakahit.net/html/techit/assets/img/overview.png" alt="People" />
+              <img src="https://startup-agency-creative.vercel.app/_next/static/images/knowledge-thumb-25b2a1d115defb28b19daf48acc7662b.png" alt="People" />
             </div>
           </div>
         </div>
@@ -332,7 +332,7 @@ const Home = () => {
           <div className="flex flex-wrap items-center justify-center gap-10 text-center">
             <div className="shadow shadow-[rgb(123,104,238,0.25)]">
               <div>
-                <img height={250} width={360} src="https://barakahit.net/html/techit/assets/img/blog/blog-1.jpg" alt="blogs" />
+                <img height={250} width={360} src="https://startup-online-fundraising.vercel.app/_next/static/images/1-818d23ed33386f190e04d9797df45215.png" alt="blogs" />
               </div>
               <div className="p-4 space-y-3">
                 <h5>Advancing Business Software <br /> Development With Cloud Native</h5>
@@ -344,7 +344,7 @@ const Home = () => {
             </div>
             <div className="shadow shadow-[rgb(123,104,238,0.25)]">
               <div>
-                <img height={250} width={360} src="https://barakahit.net/html/techit/assets/img/blog/blog-2.jpg" alt="blogs" />
+                <img height={250} width={360} src="https://startup-online-fundraising.vercel.app/_next/static/images/2-66c12090d13664c40db8bcdd30bc67ae.png" alt="blogs" />
               </div>
               <div className="p-4 space-y-3">
                 <h5>How to Create the Right Cyber <br />Insurance Policy for Your Business</h5>
@@ -356,7 +356,7 @@ const Home = () => {
             </div>
             <div className="shadow shadow-[rgb(123,104,238,0.25)]">
               <div>
-                <img height={250} width={360} src="https://barakahit.net/html/techit/assets/img/blog/blog-3.jpg" alt="blogs" />
+                <img height={250} width={360} src="https://startup-online-fundraising.vercel.app/_next/static/images/3-abf676058101cc7a84a690da0b32751d.png" alt="blogs" />
               </div>
               <div className="p-4 space-y-3">
                 <h5>Improving Business Performance <br /> With Augmented Intelligence!</h5>
